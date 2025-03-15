@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h2 align="center">열심히 하겠습니다🔥🔥</h2>
+<h4 align="center">열심히 하겠습니다🔥🔥</h4>
