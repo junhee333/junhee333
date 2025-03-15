@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-  <head>
-    
-  </head>
+<h1 align="center"><b>안녕하세요 이준희입니다! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">정보융합학부 24학번 이준희입니다!</h3>
+<br/>
+<br/>
 
-  <body>
-    <h1>정보융합학부 24학번 21살 이준희입니다.</h1>
+### 취미
+: 판다 보기 - 고등학생 때부터 바오가족을 통해 판다의 매력을 알게되어 지금까지 좋아하고 있습니다
+<br/>
 
-    <ul>
-      <li>취미 : 판다 보기</li>
-      <li>MBTI : ISTJ</li>
-      <li>좋아하는 것 : 봄</li>
-      <li>싫어하는 것 : 만두</li>
-      <li>스터디 하고 싶은 내용 : 평소 관심있던 웹개발이나 인공지능 쪽에 직접 코딩해는 방향으로 접해보고싶고 전문 용어와 많이 사용되는 툴을 다루는 것에 익숙해지고 싶다</li>
-      <li>세상의 모든 TMI : 알로에의 꽃말은 건강, 만능, 미신이라고 합니다!</li>
-    </ul>
-  </body>
-</html> 
+### 🌱 올해 목표
+1. 시간 관리 잘하기
+2. CHIC, 튜터링, 소모임 등 열심히 참여하기
+
+### 배우고 있는 것
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
