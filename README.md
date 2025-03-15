@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 1. 시간 관리 잘하기
 2. CHIC, 튜터링, 소모임 등 열심히 참여하기
 <br/>
-<br/>
 
 ### 👨‍💻 배우고 있는 것
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -39,3 +38,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 <br/>
+
+<h2 align="center">열심히 하겠습니다🔥🔥</h2>
